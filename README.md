@@ -1,3 +1,6 @@
+# Lumber Tycoon 2 Wood Script
+
+
 In Lumber Tycoon 2 (LT2) on Roblox, a wood script can refer to various types of scripts related to
 wood mechanics, such as chopping, selling, or automatically detecting wood types. These scripts
 typically help automate or modify aspects of the wood-collecting process, such as making it easier to
