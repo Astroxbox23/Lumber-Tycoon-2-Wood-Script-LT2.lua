@@ -100,8 +100,8 @@ storage area).
 
 # Important Notes
 
-**Usage** Using scripts in Roblox, including Lumber Tycoon 2, can violate the game’s terms of
+- **Usage** Using scripts in Roblox, including Lumber Tycoon 2, can violate the game’s terms of
 service, leading to account bans. Be cautious when using third-party scripts.
 
-**Customization** The script can be customized by adding more wood types, adjusting tree
+- **Customization** The script can be customized by adding more wood types, adjusting tree
 detection radius, or adding more features like auto-selling.
